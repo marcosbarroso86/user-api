@@ -1,0 +1,13 @@
+dist/
+.idea/
+node_modules/
+bower_components/
+documents/
+*.orig
+npm-debug.log
+.project
+.DS_Store
+build/
+.settings/
+.vscode/
+

@@ -1,0 +1,15 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "Auditoria de terreno API REST",
+        "version": "1.0.0",
+        "description": "API Restful de Aplicativo Auditoria de terreno"        
+    },
+    "basePath": "",
+    "tags": [],
+    "schemes": [
+        "http"
+    ],
+    "paths": {},
+    "definitions": {}
+}
