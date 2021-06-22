@@ -36,7 +36,7 @@ gulp.task('clean:temporal', () => {
 
 gulp.task('start', () => {
 	let stream = nodemon({
-		exec: 'node --inspect',
+		exec: 'node --inspect=7200',
 		script: config.server.src,
 		ext: 'js',
 		env: {
